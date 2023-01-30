@@ -1,0 +1,68 @@
+Név	versenyszám	nemzet
+Marija Laszickene	magasugrás	ANA
+Brittney Reese	távolugrás	Egyesült Államok
+Yulimar Rojas	hármasugrás	Venezuela
+Katerína Sztefanídi	rúdugrás	Görögország
+Sandra Perković	diszkoszvetés	Horvátország
+Barbora Špotáková	gerelyhajítás	Csehország
+Gong Lijiao	súlylökés	Kína
+Anita Włodarczyk	kalapácsvetés	Lengyelország
+Tori Bowie	100 m	Egyesült Államok
+Dafne Schippers	200 m	Hollandia
+Phyllis Francis	400 m	Egyesült Államok
+Caster Semenya	800 m	Dél-afrikai Köztársaság
+Faith Kipyegon	1500 m	Kenya
+Hellen Obiri	5000 m	Kenya
+Almaz Ayana	10 000 m	Etiópia
+Sally Pearson	100 m gát	Ausztrália
+Kori Carter	400 m gát	Egyesült Államok
+Emma Coburn	3000 m akadály	Egyesült Államok
+Yang Jiayu	20 km gyaloglás	Kína
+In?s Henriques	50 km gyaloglás	Portugália
+Rose Chelimo	maraton	Bahrein
+Nafissatou Thiam	hétpróba	Belgium
+Julija Levcsenko	magasugrás	Ukrajna
+Darja Klisina	távolugrás	ANA
+Caterine Ibargüen	hármasugrás	Kolumbia
+Sandi Morris	rúdugrás	Egyesült Államok
+Dani Stevens	diszkoszvetés	Ausztrália
+Li Lingwei	gerelyhajítás	Kína
+Márton Anita	súlylökés	Magyarország
+Vang Cseng	kalapácsvetés	Kína
+Marie-Josée Ta Lou	100 m	Elefántcsontpart
+Marie-Josée Ta Lou	200 m	Elefántcsontpart
+Salwa Eid Naser	400 m	Bahrein
+Francine Niyonsaba	800 m	Burundi
+Jennifer Simpson	1500 m	Egyesült Államok
+Almaz Ayana	5000 m	Etiópia
+Tirunesh Dibaba	10 000 m	Etiópia
+Dawn Harper-Nelson	100 m gát	Egyesült Államok
+Dalilah Muhammad	400 m gát	Egyesült Államok
+Courtney Frerichs	3000 m akadály	Egyesült Államok
+Lupita González	20 km gyaloglás	Mexikó
+Hang Yin	50 km gyaloglás	Kína
+Edna Ngeringwony Kiplagat	maraton	Kenya
+Carolin Schäfer	hétpróba	Németország
+Kamila Lićwinko	magasugrás	Lengyelország
+Tianna Bartoletta	távolugrás	Egyesült Államok
+Olga Ripakova	hármasugrás	Kazahsztán
+Robeilys Peinado	rúdugrás	Venezuela
+Yarisley Silva	rúdugrás	Kuba
+Mélina Robert-Michon	diszkoszvetés	Franciaország
+Lu Huihui	gerelyhajítás	Kína
+Michelle Carter	súlylökés	Egyesült Államok
+Malwina Kopron	kalapácsvetés	Lengyelország
+Dafne Schippers	100 m	Hollandia
+Shaunae Miller-Uibo	200 m	Bahama-szigetek
+Allyson Felix	400 m	Egyesült Államok
+Ajee Wilson	800 m	Egyesült Államok
+Caster Semenya	1500 m	Dél-afrikai Köztársaság
+Sifan Hassan	5000 m	Hollandia
+Agnes Jebet Tirop	10 000 m	Kenya
+Pamela Dutkiewicz	100 m gát	Németország
+Ristananna Tracey	400 m gát	Jamaica
+Hyvin Jepkemoi	3000 m akadály	Kenya
+Antonella Palmisano	20 km gyaloglás	Olaszország
+Shuqing Yang	50 km gyaloglás	Kína
+Amy Cragg	maraton	Egyesült Államok
+Anouk Vetter	hétpróba	Hollandia

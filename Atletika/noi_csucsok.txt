@@ -1,0 +1,31 @@
+név	versenyszám	nemzet
+Kater�na Sztefan�di	r�dugr�s	G�r�gorsz�g
+Tori Bowie	100 m	Egyes�lt �llamok
+Dafne Schippers	200 m	Hollandia
+Phyllis Francis	400 m	Egyes�lt �llamok
+Caster Semenya	800 m	D�l-afrikai K�zt�rsas�g
+Almaz Ayana	10 000 m	Eti�pia
+Emma Coburn	3000 m akad�ly	Egyes�lt �llamok
+Yang Jiayu	20 km gyalogl�s	K�na
+In?s Henriques	50 km gyalogl�s	Portug�lia
+Julija Levcsenko	magasugr�s	Ukrajna
+Darja Klisina	t�volugr�s	ANA
+Caterine Ibarg�en	h�rmasugr�s	Kolumbia
+Li Lingwei	gerelyhaj�t�s	K�na
+Marie-Jos�e Ta Lou	100 m	Elef�ntcsontpart
+Marie-Jos�e Ta Lou	200 m	Elef�ntcsontpart
+Salwa Eid Naser	400 m	Bahrein
+Almaz Ayana	5000 m	Eti�pia
+Tirunesh Dibaba	10 000 m	Eti�pia
+Dawn Harper-Nelson	100 m g�t	Egyes�lt �llamok
+Courtney Frerichs	3000 m akad�ly	Egyes�lt �llamok
+Lupita Gonz�lez	20 km gyalogl�s	Mexik�
+Hang Yin	50 km gyalogl�s	K�na
+Kamila Li�winko	magasugr�s	Lengyelorsz�g
+Olga Ripakova	h�rmasugr�s	Kazahszt�n
+Robeilys Peinado	r�dugr�s	Venezuela
+M�lina Robert-Michon	diszkoszvet�s	Franciaorsz�g
+Agnes Jebet Tirop	10 000 m	Kenya
+Ristananna Tracey	400 m g�t	Jamaica
+Antonella Palmisano	20 km gyalogl�s	Olaszorsz�g
+Shuqing Yang	50 km gyalogl�s	K�na
